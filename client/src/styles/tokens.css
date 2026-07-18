@@ -1,0 +1,32 @@
+:root {
+  /* Color */
+  --color-primary: #146C64;
+  --color-primary-dark: #0D4B45;
+  --color-primary-light: #E4F1EE;
+  --color-secondary: #2B3A67;
+  --color-accent: #F2A93B;
+  --color-accent-dark: #D6900F;
+  --color-bg: #FAFAF7;
+  --color-surface: #FFFFFF;
+  --color-border: #E2E8E4;
+  --color-text: #1F2937;
+  --color-text-muted: #5B6470;
+  --color-danger: #C4453A;
+  --color-danger-bg: #FBEAE8;
+  --color-success: #2F9E63;
+  --color-success-bg: #E7F6EE;
+  --color-pending-bg: #FDF3E1;
+  --color-pending-text: #92610F;
+
+  /* Type */
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+
+  /* Layout */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --shadow-card: 0 1px 2px rgba(15, 40, 35, 0.06), 0 8px 24px -12px rgba(15, 40, 35, 0.18);
+  --max-width: 1180px;
+}
