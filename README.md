@@ -78,3 +78,4 @@ Open http://localhost:5173 — the frontend talks to the backend automatically.
 ## Notes
 - This is a learning/demo scaffold: add rate limiting, email verification, and payment
   integration before using it in production.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2bf24af-6436-402c-a76f-a6607d1fed2a" />
