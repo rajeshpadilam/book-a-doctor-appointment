@@ -81,6 +81,8 @@ Open http://localhost:5173 — the frontend talks to the backend automatically.-
 - Frontend: `npm run build` in `frontend/` produces a static `dist/` folder deployable to
   Vercel, Netlify, or any static host — set `VITE_API_URL` to your deployed backend URL.
 
-SCREENSHOTS:
+**SCREENSHOTS:**
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/efe3a054-9c04-4d40-8864-ee71bda23e3b" />
+
 
 
