@@ -3,7 +3,7 @@
 A full-stack doctor appointment booking app inspired by the reference project you shared.
 Patients browse doctors, check live slot availability, and book instantly. Doctors manage
 their schedule. Admins manage the doctor directory and see every booking.
-
+link:http://localhost:5173/
 ## Stack
 - **MongoDB** + Mongoose — data
 - **Express** + JWT — REST API
