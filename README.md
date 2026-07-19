@@ -83,6 +83,12 @@ Open http://localhost:5173 — the frontend talks to the backend automatically.-
 
 **SCREENSHOTS:**
 <img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/efe3a054-9c04-4d40-8864-ee71bda23e3b" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/e7660c2b-930f-4156-84ec-65b06b9614df" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/f0806b6c-afea-4599-9589-81efd7241053" />
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/83c696f2-e2e6-44cf-ab73-f82d413a5121" />
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/3900a9a2-b237-4319-8354-9f04f2176ad3" />
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/be42ed6f-b2e7-42f6-bf61-b1886d048d2d" />
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/e0d4a75e-336d-4338-8ccd-d878102ddfa9" />
 
 
 
