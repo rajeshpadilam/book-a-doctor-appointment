@@ -10,7 +10,8 @@ const getDoctors = async (req, res) => {
     if (specialty) query.specialty = specialty;
     if (search) query.$text = { $search: search };
 
-    const doctors = await Doctor.find(query).sort({ rating: -1 });
+    const doctors = await Doctor.find({});
+    console.log("Doctors found:", doctors.length);
     res.json(doctors);
   } catch (err) {
     res.status(500).json({ message: err.message });
