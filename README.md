@@ -1,5 +1,18 @@
 # DocBook — Doctor Appointment Booking System (MERN)
 
+## 🔗 Live Demo
+- **App (Frontend):** https://book-a-doctor-appointment-o277.vercel.app
+- **API (Backend):** https://book-a-doctor-appointment.onrender.com
+
+**Demo logins:**
+| Role    | Email                     | Password   |
+|---------|---------------------------|------------|
+| Admin   | admin@docbook.com         | admin123   |
+| Patient | patient@docbook.com       | patient123 |
+
+> Note: the backend is hosted on Render's free tier, which spins down after inactivity.
+> The first request after idle time may take up to 50 seconds to respond while it wakes up.
+
 A full-stack doctor appointment booking app inspired by the reference project you shared.
 Patients browse doctors, check live slot availability, and book instantly. Doctors manage
 their schedule. Admins manage the doctor directory and see every booking.
@@ -42,7 +55,7 @@ cp .env.example .env      # VITE_API_URL=http://localhost:5000/api
 npm run dev                 # starts the app on http://localhost:5173
 ```
 
-Open http://localhost:5173 — the frontend talks to the backend automatically.
+Open http://localhost:5173 — the frontend talks to the backend automatically.------ only for user system
 
 ## How the pieces are interlinked
 - The **frontend** calls the **backend** exclusively through `frontend/src/api/axios.js`,
