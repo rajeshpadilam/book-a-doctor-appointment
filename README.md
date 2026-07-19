@@ -4,7 +4,7 @@ A full-stack doctor appointment booking app inspired by the reference project yo
 Patients browse doctors, check live slot availability, and book instantly. Doctors manage
 their schedule. Admins manage the doctor directory and see every booking.
 
-
+demo:file:///C:/Users/rajes/AppData/Local/Temp/27f2cdd6-8b81-4960-96a8-31e1601f83df_docbook-mern-project.zip.3df/docbook/demo.html
 ## Stack
 - **MongoDB** + Mongoose — data
 - **Express** + JWT — REST API
