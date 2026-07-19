@@ -5,8 +5,6 @@ Patients browse doctors, check live slot availability, and book instantly. Docto
 their schedule. Admins manage the doctor directory and see every booking.
 
 
-Demo Link:http://localhost:5173/
-
 ## Stack
 - **MongoDB** + Mongoose — data
 - **Express** + JWT — REST API
