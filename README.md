@@ -4,11 +4,7 @@
 - **App (Frontend):** https://book-a-doctor-appointment-o277.vercel.app
 - **API (Backend):** https://book-a-doctor-appointment.onrender.com
 
-**Demo logins:**
-| Role    | Email                     | Password   |
-|---------|---------------------------|------------|
-| Admin   | admin@docbook.com         | admin123   |
-| Patient | patient@docbook.com       | patient123 |
+
 
 > Note: the backend is hosted on Render's free tier, which spins down after inactivity.
 > The first request after idle time may take up to 50 seconds to respond while it wakes up.
