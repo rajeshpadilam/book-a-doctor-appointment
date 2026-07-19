@@ -6,8 +6,6 @@
 
 Demo logins: patient@docbook.com /  patient123
 
-> Note: the backend is hosted on Render's free tier, which spins down after inactivity.
-> The first request after idle time may take up to 50 seconds to respond while it wakes up.
 
 A full-stack doctor appointment booking app inspired by the reference project you shared.
 Patients browse doctors, check live slot availability, and book instantly. Doctors manage
@@ -83,7 +81,4 @@ Open http://localhost:5173 — the frontend talks to the backend automatically.-
 - Frontend: `npm run build` in `frontend/` produces a static `dist/` folder deployable to
   Vercel, Netlify, or any static host — set `VITE_API_URL` to your deployed backend URL.
 
-## Notes
-- This is a learning/demo scaffold: add rate limiting, email verification, and payment
-  integration before using it in production.
 
