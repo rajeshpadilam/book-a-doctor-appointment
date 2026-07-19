@@ -6,7 +6,7 @@ const Appointment = require("../models/Appointment");
 const getDoctors = async (req, res) => {
   try {
     const { search, specialty } = req.query;
-    const query = { isActive: true };
+    const query = {};
     if (specialty) query.specialty = specialty;
     if (search) query.$text = { $search: search };
 
